@@ -29,6 +29,8 @@ extra_javascript:
 nav:
   - Home: index.md
   - Installation: install.md
+  - Tutorials: 
+    - Overview: tutorial.md
   - Documentation:
     - Preprocessor: preprocessor.md
     - Mapper: mapper.md
